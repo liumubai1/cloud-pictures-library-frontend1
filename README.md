@@ -1,7 +1,7 @@
 #  cloud-pictures-library-frontend
 
 #### 介绍
-云图库前端
+智联云图库前端
 
 #### 软件架构
 软件架构说明
